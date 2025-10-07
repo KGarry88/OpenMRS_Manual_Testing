@@ -29,7 +29,6 @@ The following functional areas were covered:
 ## Test Artifacts
 - **Total Test Cases:** 40 manual test cases documented in Excel  
 - **Test Case Sheet:** Includes test case ID, description, test steps, expected results, and status  
-- **Bug Report Sheet:** Lists issues identified during testing, with severity and resolution status  
 
 ---
 
